@@ -1,6 +1,6 @@
 {
-    "name": "Integration blueprint",
-    "hacs": "1.6.0",
+    "name": "Izone Beta",
+    "hacs": "2.0.0",
     "domains": [
         "binary_sensor",
         "sensor",
